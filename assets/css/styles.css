@@ -732,6 +732,7 @@ img{
 /*==================== TESTIMONIAL ====================*/
 .testimonial__container{
     overflow: hidden;
+    position: relative;
 }
 .testimonial__data,
 .testimonial__header{
@@ -764,7 +765,7 @@ img{
 .swiper-container .swiper-pagination-testimonial{
     bottom: 0;
 }
-
+ 
 /*==================== CONTACT ME ====================*/
 
 .contact__container{
